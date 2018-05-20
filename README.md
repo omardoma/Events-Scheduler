@@ -1,7 +1,7 @@
 # Events-Scheduler
 
-How to run?
+## How to run?
 
-Open the file in SWI-Prolog
+Consult the file in SWI-Prolog
 
 Ⓒ Omar Doma 2017
